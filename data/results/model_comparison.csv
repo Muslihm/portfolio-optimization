@@ -1,5 +1,5 @@
 ,Model,MAE,RMSE,MAPE
 0,ARIMA,147.19,173.43,39.96
-1,Random Forest,30.09,42.32,7.65
+1,Random Forest,30.03,42.34,7.63
 2,MLP Neural Net,16.16,20.7,4.58
 3,Ridge Regression,10.44,13.88,3.16
